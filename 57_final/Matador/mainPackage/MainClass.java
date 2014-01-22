@@ -21,7 +21,7 @@ public class MainClass {
 		
 		GUI.close();
 	}
-
+// YA DINGUS, YA DONGED OP
 	
 /*
  * Add (more) comments for clarification
