@@ -1,10 +1,5 @@
 package mainGame;
 
-// lol u dense motherfcuckerakr
-// maximum lel
-
-//more comments
-
 import boundaryToMatador.GUI;
 
 public class AccountClass {
